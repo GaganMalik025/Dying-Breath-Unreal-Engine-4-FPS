@@ -12,7 +12,7 @@ The game's story is by no means its highlight as the game's main purpose is to s
 
 The game is very short and is solely meant to showcase the gameplay features implemented.
 
-The link to the files: 
+The link to the files: (Start with Cyber_2.exe)
 
 https://drive.google.com/drive/folders/1a0ZlW0O-bg9MSD43wMORHcIK7NTVwvdV?usp=sharing
 
