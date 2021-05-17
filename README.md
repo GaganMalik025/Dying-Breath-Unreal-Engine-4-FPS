@@ -11,3 +11,9 @@ The game's story is by no means its highlight as the game's main purpose is to s
 4. A Rifle and a Pistol mechanism. A short surprise (third mechanism) in the final level.
 
 The game is very short and is solely meant to showcase the gameplay features implemented.
+
+The link to the files: 
+
+https://drive.google.com/drive/folders/1a0ZlW0O-bg9MSD43wMORHcIK7NTVwvdV?usp=sharing
+
+
