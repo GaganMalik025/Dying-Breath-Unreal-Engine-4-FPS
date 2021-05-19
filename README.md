@@ -16,4 +16,16 @@ The link to the files: (Start with Cyber_2.exe)
 
 https://drive.google.com/drive/folders/1a0ZlW0O-bg9MSD43wMORHcIK7NTVwvdV?usp=sharing
 
+Gameplay shots :
+
+![alt text](https://github.com/GaganMalik025/Dying-Breath-Unreal-Engine-4-FPS/blob/main/Screenshot%20(17).png?raw=true)
+
+![alt text](https://github.com/GaganMalik025/Dying-Breath-Unreal-Engine-4-FPS/blob/main/Screenshot%20(18).png?raw=true)
+
+![alt text](https://github.com/GaganMalik025/Dying-Breath-Unreal-Engine-4-FPS/blob/main/Screenshot%20(19).png?raw=true)
+
+![alt text](https://github.com/GaganMalik025/Dying-Breath-Unreal-Engine-4-FPS/blob/main/Screenshot%20(20).png?raw=true)
+
+![alt text](https://github.com/GaganMalik025/Dying-Breath-Unreal-Engine-4-FPS/blob/main/Screenshot%20(21).png?raw=true)
+
 
