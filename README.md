@@ -18,6 +18,8 @@ https://drive.google.com/drive/folders/1a0ZlW0O-bg9MSD43wMORHcIK7NTVwvdV?usp=sha
 
 When you choose pistol as your weapon, on the bottom left it displays as "Hell Sword", please don't mind that.
 
+Background Soundtracks are from anime "Death Note" and I have used "Replica" software to generate dialogues which I myself wrote.
+
 Gameplay shots :
 
 ![alt text](https://github.com/GaganMalik025/Dying-Breath-Unreal-Engine-4-FPS/blob/main/Screenshot%20(17).png?raw=true)
